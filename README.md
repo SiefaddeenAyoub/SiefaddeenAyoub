@@ -12,8 +12,8 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Analysis Exfiltration                 | <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-/tree/main">Network Analysis Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## Tools
