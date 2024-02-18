@@ -53,5 +53,5 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 
 ## Projects
-- <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-/tree/main">Detection Lab</a>
+- <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-/tree/main">Network Analysis (Exfiltration) Lab</a>
 - Test Project
