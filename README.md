@@ -1,40 +1,58 @@
-<h1>Hi, I'm Siefaddeen! <br/><a 
+# Hello, I'm Siefaddeen Ayoub
+<a href="https://linkedin.com/in/siefaddeen-ayoub-8888b72a1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]([https://github.com/SiefaddeenAyoub/LABURL](https://github.com/SiefaddeenAyoub/FIMLAB/tree/main)
-  - [FIM (File Integrity Monitor)]([https://github.com/SiefaddeenAyoub/LABURL](https://github.com/SiefaddeenAyoub/FIMLAB/tree/main)
+I am an upcoming graduate with a profound interest in Security and Tech.
 
-<h2>📺 Certifications</h2>
-- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-<h2>📺 Popular YouTube Videos</h2>
+## Objective
 
-- [MICROSOFT AZURE LAB](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [FIM LAB](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-<h2> 🤳 Connect with me:</h2>
+## Skills
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | SOC Automation Lab|
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud
+<div>
+    <a href="https://aws.amazon.com/">
+        <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SIEM
+<div>
+    <a href="https://azure.microsoft.com/">
+        <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    </a>
+</div>
+
+## Certifications
+<div>
+    <a href="https://cloud.google.com/training/certification/security-engineer">
+        <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </a>
+</div>
+<div>
+    <a href="https://aws.amazon.com/certification/">
+        <img src="https://img.shields.io/badge/-Amazon_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    </a>
+</div>
+<div>
+    <a href="https://www.comptia.org/certifications/security">
+        <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+</div>
+
+
+## Projects
+- Detection Lab
+- SOC Automation Project
+- Test Project
