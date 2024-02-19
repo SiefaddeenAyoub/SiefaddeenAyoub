@@ -17,7 +17,13 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- Microsoft Azure
+- Powershell
+- Remote Desktop
+- Virtual Machine
+- Python
+- Log Analytics
+- Geolocation mapping
 
 ### Cloud
 <div>
