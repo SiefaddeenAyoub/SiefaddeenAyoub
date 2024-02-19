@@ -12,7 +12,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Analysis Exfiltration                 | <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-/tree/main">Network Analysis Lab</a>|
+| SIEM Microsoft Azure                          | <a href="https://github.com/SiefaddeenAyoub/FIMLAB">SIEM Microsoft Azure Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
@@ -53,5 +53,5 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 
 
 ## Projects
-- <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-/tree/main">Network Analysis (Exfiltration) Lab</a>
+- <a href="https://github.com/SiefaddeenAyoub/FIMLAB">SIEM Microsoft Azure Lab</a>
 - Test Project
