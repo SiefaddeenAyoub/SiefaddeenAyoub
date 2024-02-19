@@ -13,7 +13,7 @@ I am now eager to transition into this field, specifically aiming to join a Secu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Microsoft Azure                          | <a href="https://github.com/SiefaddeenAyoub/FIMLAB">SIEM Microsoft Azure Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | Detection Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## Tools
