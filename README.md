@@ -24,6 +24,7 @@ I am now eager to transition into the field of Cybersecurity, specifically aimin
 - Python
 - Log Analytics
 - Geolocation mapping
+- AWS
 
 ### Cloud
 <div>
