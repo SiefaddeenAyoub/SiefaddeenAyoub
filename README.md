@@ -6,7 +6,7 @@ I am an upcoming graduate with a profound interest in Security and Tech.
 
 ## Objective
 
-I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am now eager to transition into the field of Cybersecurity, specifically aiming to join an Entry Level Cloud Security Analyst.
 
 ## Skills
 
