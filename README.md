@@ -14,7 +14,7 @@ I am now eager to transition into the field of Cybersecurity, specifically aimin
 |-----------------------------------------------|----------------------------|
 | SIEM Microsoft Azure                          | <a href="https://github.com/SiefaddeenAyoub/FIMLAB">SIEM Microsoft Azure Lab</a>|
 | AWS Web Application from Scratch              | <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-">AWS Web Application from Scratch Lab</a>|
-| Analzying Malcious Activity                   | Analzying Malcious Activity Lab|
+| Analzying Malcious Activity                   | <a href="https://github.com/SiefaddeenAyoub/Analzying-Malcious-Activity/tree/main">Analzying Malcious Activity Lab|
 
 ## Tools
 - Microsoft Azure
@@ -62,3 +62,4 @@ I am now eager to transition into the field of Cybersecurity, specifically aimin
 ## Projects
 - <a href="https://github.com/SiefaddeenAyoub/FIMLAB">SIEM Microsoft Azure Lab</a>
 - <a href="https://github.com/SiefaddeenAyoub/Network-Analysis-Exfiltration-">AWS Web Application from Scratch Lab</a>
+- <a href="https://github.com/SiefaddeenAyoub/Analzying-Malcious-Activity/tree/main">Analzying Malcious Activity Lab</a>
